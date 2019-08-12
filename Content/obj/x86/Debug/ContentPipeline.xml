@@ -1,0 +1,801 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2008-10-22T14:21:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2008-10-22T14:21:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Piranha.png</Source>
+      <Name>Sprites\Piranha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Sprites\Piranha.xnb</Output>
+      <Time>2011-01-06T23:16:10.6373775+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gamebg.png</Source>
+      <Name>gamebg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\gamebg.xnb</Output>
+      <Time>2011-01-08T14:17:05.2865+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Fish.png</Source>
+      <Name>Sprites\Fish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Sprites\Fish.xnb</Output>
+      <Time>2011-01-08T12:47:41.1012+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Mine.png</Source>
+      <Name>Sprites\Mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Sprites\Mine.xnb</Output>
+      <Time>2011-01-07T15:09:16.5508+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Blood.png</Source>
+      <Name>Sprites\Blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Sprites\Blood.xnb</Output>
+      <Time>2011-01-07T14:07:26.8058+00:00</Time>
+    </Item>
+    <Item>
+      <Source>fog.png</Source>
+      <Name>fog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\fog.xnb</Output>
+      <Time>2011-01-08T14:25:20.39+00:00</Time>
+    </Item>
+    <Item>
+      <Source>waterfall.jpg</Source>
+      <Name>waterfall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\waterfall.xnb</Output>
+      <Time>2011-01-06T22:25:48.1368775+00:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2011-01-07T15:56:12.3498+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (1).jpg</Source>
+      <Name>Movie\movie (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (1).xnb</Output>
+      <Time>2011-01-09T22:49:56.952+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (10).jpg</Source>
+      <Name>Movie\movie (10)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (10).xnb</Output>
+      <Time>2011-01-09T22:50:30.378+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (11).jpg</Source>
+      <Name>Movie\movie (11)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (11).xnb</Output>
+      <Time>2011-01-09T22:50:34.172+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (12).jpg</Source>
+      <Name>Movie\movie (12)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (12).xnb</Output>
+      <Time>2011-01-09T22:50:37.959+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (13).jpg</Source>
+      <Name>Movie\movie (13)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (13).xnb</Output>
+      <Time>2011-01-09T22:50:41.763+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (14).jpg</Source>
+      <Name>Movie\movie (14)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (14).xnb</Output>
+      <Time>2011-01-09T22:50:45.62+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (15).jpg</Source>
+      <Name>Movie\movie (15)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (15).xnb</Output>
+      <Time>2011-01-09T22:50:49.451+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (16).jpg</Source>
+      <Name>Movie\movie (16)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (16).xnb</Output>
+      <Time>2011-01-09T22:50:53.37+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (17).jpg</Source>
+      <Name>Movie\movie (17)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (17).xnb</Output>
+      <Time>2011-01-09T22:50:57.143+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (18).jpg</Source>
+      <Name>Movie\movie (18)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (18).xnb</Output>
+      <Time>2011-01-09T22:51:00.912+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (19).jpg</Source>
+      <Name>Movie\movie (19)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (19).xnb</Output>
+      <Time>2011-01-09T22:51:04.678+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (2).jpg</Source>
+      <Name>Movie\movie (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (2).xnb</Output>
+      <Time>2011-01-09T22:50:00.657+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (20).jpg</Source>
+      <Name>Movie\movie (20)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (20).xnb</Output>
+      <Time>2011-01-09T22:51:08.444+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (21).jpg</Source>
+      <Name>Movie\movie (21)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (21).xnb</Output>
+      <Time>2011-01-09T22:51:12.266+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (22).jpg</Source>
+      <Name>Movie\movie (22)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (22).xnb</Output>
+      <Time>2011-01-09T22:51:15.986+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (23).jpg</Source>
+      <Name>Movie\movie (23)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (23).xnb</Output>
+      <Time>2011-01-09T22:51:19.828+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (24).jpg</Source>
+      <Name>Movie\movie (24)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (24).xnb</Output>
+      <Time>2011-01-09T22:51:23.689+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (25).jpg</Source>
+      <Name>Movie\movie (25)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (25).xnb</Output>
+      <Time>2011-01-09T22:51:27.473+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (26).jpg</Source>
+      <Name>Movie\movie (26)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (26).xnb</Output>
+      <Time>2011-01-09T22:51:30.96+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (27).jpg</Source>
+      <Name>Movie\movie (27)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (27).xnb</Output>
+      <Time>2011-01-09T22:51:34.385+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (28).jpg</Source>
+      <Name>Movie\movie (28)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (28).xnb</Output>
+      <Time>2011-01-09T22:51:37.868+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (29).jpg</Source>
+      <Name>Movie\movie (29)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (29).xnb</Output>
+      <Time>2011-01-09T22:51:41.664+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (3).jpg</Source>
+      <Name>Movie\movie (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (3).xnb</Output>
+      <Time>2011-01-09T22:50:04.341+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (30).jpg</Source>
+      <Name>Movie\movie (30)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (30).xnb</Output>
+      <Time>2011-01-09T22:51:45.476+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (31).jpg</Source>
+      <Name>Movie\movie (31)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (31).xnb</Output>
+      <Time>2011-01-09T22:51:49.228+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (32).jpg</Source>
+      <Name>Movie\movie (32)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (32).xnb</Output>
+      <Time>2011-01-09T22:51:52.972+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (33).jpg</Source>
+      <Name>Movie\movie (33)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (33).xnb</Output>
+      <Time>2011-01-09T22:51:56.592+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (34).jpg</Source>
+      <Name>Movie\movie (34)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (34).xnb</Output>
+      <Time>2011-01-09T22:52:00.22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (35).jpg</Source>
+      <Name>Movie\movie (35)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (35).xnb</Output>
+      <Time>2011-01-09T22:52:03.671+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (36).jpg</Source>
+      <Name>Movie\movie (36)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (36).xnb</Output>
+      <Time>2011-01-09T22:52:07.118+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (37).jpg</Source>
+      <Name>Movie\movie (37)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (37).xnb</Output>
+      <Time>2011-01-09T22:52:10.506+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (38).jpg</Source>
+      <Name>Movie\movie (38)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (38).xnb</Output>
+      <Time>2011-01-09T22:52:13.749+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (39).jpg</Source>
+      <Name>Movie\movie (39)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (39).xnb</Output>
+      <Time>2011-01-09T22:52:16.95+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (4).jpg</Source>
+      <Name>Movie\movie (4)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (4).xnb</Output>
+      <Time>2011-01-09T22:50:07.963+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (40).jpg</Source>
+      <Name>Movie\movie (40)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (40).xnb</Output>
+      <Time>2011-01-09T22:52:20.03+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (41).jpg</Source>
+      <Name>Movie\movie (41)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (41).xnb</Output>
+      <Time>2011-01-09T22:52:22.907+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (42).jpg</Source>
+      <Name>Movie\movie (42)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (42).xnb</Output>
+      <Time>2011-01-09T22:52:25.599+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (43).jpg</Source>
+      <Name>Movie\movie (43)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (43).xnb</Output>
+      <Time>2011-01-09T22:52:28.216+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (44).jpg</Source>
+      <Name>Movie\movie (44)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (44).xnb</Output>
+      <Time>2011-01-09T22:52:30.643+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (45).jpg</Source>
+      <Name>Movie\movie (45)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (45).xnb</Output>
+      <Time>2011-01-09T22:52:33.031+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (46).jpg</Source>
+      <Name>Movie\movie (46)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (46).xnb</Output>
+      <Time>2011-01-09T22:52:35.382+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (47).jpg</Source>
+      <Name>Movie\movie (47)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (47).xnb</Output>
+      <Time>2011-01-09T22:52:37.981+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (48).jpg</Source>
+      <Name>Movie\movie (48)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (48).xnb</Output>
+      <Time>2011-01-09T22:52:41.341+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (49).jpg</Source>
+      <Name>Movie\movie (49)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (49).xnb</Output>
+      <Time>2011-01-09T22:52:44.081+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (5).jpg</Source>
+      <Name>Movie\movie (5)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (5).xnb</Output>
+      <Time>2011-01-09T22:50:11.595+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (50).jpg</Source>
+      <Name>Movie\movie (50)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (50).xnb</Output>
+      <Time>2011-01-09T22:52:47.395+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (51).jpg</Source>
+      <Name>Movie\movie (51)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (51).xnb</Output>
+      <Time>2011-01-09T22:52:52.063+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (52).jpg</Source>
+      <Name>Movie\movie (52)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (52).xnb</Output>
+      <Time>2011-01-09T22:52:55.857+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (53).jpg</Source>
+      <Name>Movie\movie (53)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (53).xnb</Output>
+      <Time>2011-01-09T22:52:59.441+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (54).jpg</Source>
+      <Name>Movie\movie (54)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (54).xnb</Output>
+      <Time>2011-01-09T22:53:02.986+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (55).jpg</Source>
+      <Name>Movie\movie (55)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (55).xnb</Output>
+      <Time>2011-01-09T22:53:06.472+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (56).jpg</Source>
+      <Name>Movie\movie (56)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (56).xnb</Output>
+      <Time>2011-01-09T22:53:09.975+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (57).jpg</Source>
+      <Name>Movie\movie (57)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (57).xnb</Output>
+      <Time>2011-01-09T22:53:13.523+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (58).jpg</Source>
+      <Name>Movie\movie (58)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (58).xnb</Output>
+      <Time>2011-01-09T22:53:16.991+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (59).jpg</Source>
+      <Name>Movie\movie (59)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (59).xnb</Output>
+      <Time>2011-01-09T22:53:20.575+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (6).jpg</Source>
+      <Name>Movie\movie (6)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (6).xnb</Output>
+      <Time>2011-01-09T22:50:15.322+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (60).jpg</Source>
+      <Name>Movie\movie (60)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (60).xnb</Output>
+      <Time>2011-01-09T22:53:24.325+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (61).jpg</Source>
+      <Name>Movie\movie (61)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (61).xnb</Output>
+      <Time>2011-01-09T22:53:27.994+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (62).jpg</Source>
+      <Name>Movie\movie (62)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (62).xnb</Output>
+      <Time>2011-01-09T22:53:31.757+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (63).jpg</Source>
+      <Name>Movie\movie (63)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (63).xnb</Output>
+      <Time>2011-01-09T22:53:35.596+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (64).jpg</Source>
+      <Name>Movie\movie (64)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (64).xnb</Output>
+      <Time>2011-01-09T22:53:39.119+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (65).jpg</Source>
+      <Name>Movie\movie (65)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (65).xnb</Output>
+      <Time>2011-01-09T22:53:42.452+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (66).jpg</Source>
+      <Name>Movie\movie (66)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (66).xnb</Output>
+      <Time>2011-01-09T22:53:45.611+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (7).jpg</Source>
+      <Name>Movie\movie (7)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (7).xnb</Output>
+      <Time>2011-01-09T22:50:19.043+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (8).jpg</Source>
+      <Name>Movie\movie (8)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (8).xnb</Output>
+      <Time>2011-01-09T22:50:22.789+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Movie\movie (9).jpg</Source>
+      <Name>Movie\movie (9)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Movie\movie (9).xnb</Output>
+      <Time>2011-01-09T22:50:26.595+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menufont.spritefont</Source>
+      <Name>Fonts\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Fonts\menufont.xnb</Output>
+      <Time>2008-10-22T14:21:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\PowerUpFont.spritefont</Source>
+      <Name>Fonts\PowerUpFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Fonts\PowerUpFont.xnb</Output>
+      <Time>2011-01-05T14:26:38.9935275+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Refraction.fx</Source>
+      <Name>Refraction</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Refraction.xnb</Output>
+      <Time>2011-01-15T16:35:04.7165+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\backgroundSound.wav</Source>
+      <Name>Sounds\backgroundSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Sounds\backgroundSound.xnb</Output>
+      <Time>2011-01-08T14:53:02.41425+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\whaleSound.wav</Source>
+      <Name>Sounds\whaleSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Sounds\whaleSound.xnb</Output>
+      <Time>2011-01-08T15:07:06.20425+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\biteSound.wav</Source>
+      <Name>Sounds\biteSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Sounds\biteSound.xnb</Output>
+      <Time>2011-01-08T15:11:42.30225+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\hurtSound.wav</Source>
+      <Name>Sounds\hurtSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Sounds\hurtSound.xnb</Output>
+      <Time>2011-01-08T15:18:23.57225+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\powerUpSound.wav</Source>
+      <Name>Sounds\powerUpSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\Sounds\powerUpSound.xnb</Output>
+      <Time>2011-01-08T22:16:48.3808+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-29T18:42:49.408+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

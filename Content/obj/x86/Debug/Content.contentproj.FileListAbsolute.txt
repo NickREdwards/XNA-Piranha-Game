@@ -1,0 +1,6 @@
+C:\Users\Steve\Documents\Visual Studio 2008\Projects\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sf10\Desktop\ICGGSAssignment\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sf10\Desktop\Work\ICGGS\ICGGSAssignment\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick\Downloads\ICGGSAssignment 2010\ICGGSAssignment\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Backup\Documents\Uni Work\ICGGS\Final\ICGGSAssignment\Content\obj\x86\Debug\ResolveAssemblyReference.cache
